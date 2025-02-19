@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj": {}
+    "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT-DEV1/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj": {}
   },
   "projects": {
-    "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj": {
+    "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT-DEV1/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT-DEV1/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj",
         "projectName": "IM_CONSOLE_PROJECT",
-        "projectPath": "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj",
+        "projectPath": "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT-DEV1/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT.csproj",
         "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT/IM_CONSOLE_PROJECT/obj/",
+        "outputPath": "/Users/apple/Desktop/Git-project-POC/IM_CONSOLE_PROJECT-DEV1/IM_CONSOLE_PROJECT/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/apple/.config/NuGet/NuGet.Config"
