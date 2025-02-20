@@ -6,5 +6,6 @@ namespace IM_CONSOLE_PROJECT
         public string fname;
         public string lname;
         public string numt;
+        private int Id;
     }
 }
